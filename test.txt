@@ -1,1 +1,0 @@
-it just for understanding stage and master of git 
